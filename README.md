@@ -38,3 +38,10 @@ Run sync
 ```
 $ php megasync.php "/local/folder" "/mega/folder"
 ```
+
+
+Info
+====
+
+* Run script from console to avoid http timeouts.
+* Use [tmux](https://github.com/tmux/tmux) if you have a lot of files.
